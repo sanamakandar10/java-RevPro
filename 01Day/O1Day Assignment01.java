@@ -1,6 +1,6 @@
 /*1. Write a program to calculate the area and perimeter of the rectangle. Input Length and breadth using command line arguments.*/
 
-public class Rectangle {
+public class O1Day Assignment01 {
 	public static void main(String[] args) {
         if (args.length!=2) {
             System.out.println("Please provide the length and breadth as command line arguments.");

@@ -2,7 +2,7 @@
 E.g.- NUMBER : 12345        OUTPUT : 1+4=5 
 Input the number using scanner.*/
 import java.util.Scanner;
-public class SumOfDigits {
+public class O1Day Assignment08 {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in); 
         System.out.print("Enter a 5-digit number: ");

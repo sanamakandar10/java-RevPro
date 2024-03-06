@@ -3,7 +3,7 @@ Number : 132        Output : 6
 Input the number using scanner.*/
 import java.util.Scanner;
 
-public class SumOfDigits {
+public class O1Day Assignment09 {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         
