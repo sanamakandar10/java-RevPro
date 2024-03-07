@@ -1,6 +1,6 @@
 /*6. Write a program to convert Fahrenheit into Celsius. Input the value using scanner.*/
 import java.util.Scanner;
-public class O1Day Assignment06 {
+public class ToCelsius {
 	public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         System.out.print("Enter the temperature in Fahrenheit: ");

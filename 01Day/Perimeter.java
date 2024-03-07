@@ -1,6 +1,6 @@
 cm/*2. Write a program to calculate the perimeter of a triangle. Input the sides of triangle using command Line arguments.*/
 
-public class 01DayAssignment02 {
+public class Perimeter {
 	public static void main(String[] args) {
         if (args.length != 3) {
             System.out.println("Please provide the three sides of the triangle as command line arguments.");

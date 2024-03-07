@@ -3,7 +3,7 @@ E.g.-Number : 132        Output : 231
 Input the number using scanner.*/
 import java.util.Scanner;
 
-public class O1Day Assignment10{
+public class ReverseNumber{
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         
