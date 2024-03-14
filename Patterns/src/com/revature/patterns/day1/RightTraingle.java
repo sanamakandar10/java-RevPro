@@ -1,4 +1,4 @@
-package com.revature.patterns;
+package com.revature.patterns.day1;
 
 public class RightTraingle {
     public static void main(String[] args) {
